@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Test]">
+  <test name="launchgoogle(failed)">
+    <classes>
+      <class name="com.snearchitect.testcases.Launchtest">
+        <methods>
+          <include name="setUp"/>
+          <include name="launchgoogle"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.snearchitect.testcases.Launchtest -->
+    </classes>
+  </test> <!-- launchgoogle(failed) -->
+</suite> <!-- Failed suite [Data Driven Test] -->
