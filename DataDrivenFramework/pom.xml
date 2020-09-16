@@ -4,7 +4,15 @@
 	<groupId>com.snetestarchitect</groupId>
 	<artifactId>DataDrivenFramework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>		
-	<dependencies>		
+	<dependencies>
+				<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+			<dependency>
+			    <groupId>io.rest-assured</groupId>
+			    <artifactId>rest-assured</artifactId>
+			    <version>4.3.0</version>
+			    <scope>test</scope>
+			</dependency>
+			
 			<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 			<dependency>
 				<groupId>org.testng</groupId>

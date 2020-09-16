@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5447" started-at="2020-07-30T13:41:05Z" finished-at="2020-07-30T13:41:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5447" started-at="2020-07-30T13:41:05Z" finished-at="2020-07-30T13:41:11Z">
+      <class name="remoteTesting.dockerValidation.Chrometest1">
+        <test-method status="PASS" signature="test3()[pri:0, instance:remoteTesting.dockerValidation.Chrometest1@29ee9faa]" name="test3" duration-ms="5412" started-at="2020-07-30T13:41:05Z" finished-at="2020-07-30T13:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:remoteTesting.dockerValidation.Chrometest1@29ee9faa]" name="test1" duration-ms="3569" started-at="2020-07-30T13:41:05Z" finished-at="2020-07-30T13:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:remoteTesting.dockerValidation.Chrometest1@29ee9faa]" name="test2" duration-ms="4437" started-at="2020-07-30T13:41:05Z" finished-at="2020-07-30T13:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- remoteTesting.dockerValidation.Chrometest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
